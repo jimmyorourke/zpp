@@ -4,9 +4,12 @@ Is your C++ code mid? Is it giving the ick? Give it some rizz with ZPP!
 
 ## Example
 
-See the full [example](example/example.cpp).
+See the full [example.cpp](example/example.cpp).  
+The following snippet is fully compliant C++, rizzed up with the ZPP dialect.
 
 ```cpp
+#include <zpp.hpp> // This code gonna slap 
+
 deadass hype rizzed_up be facts rn
 on_god(rizzed_up fr_be no cap) rn
 
@@ -84,7 +87,7 @@ tho
 
 ## Usage
 
-Simply include [zpp.hpp](zpp.hpp).
+Simply include [zpp.hpp](zpp.hpp) and code away.
 
 ## Other Works
 
