@@ -1,4 +1,4 @@
-# ZPP: C++ with Rizz
+# ZPP: C++ for Gen Z
 
 Is your C++ code mid? Is it giving the ick? Give it some rizz with ZPP!
 
