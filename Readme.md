@@ -7,10 +7,10 @@ Is your C++ code mid? Is it giving the ick? Give it some rizz with ZPP!
 See the full [example](example/example.cpp).
 
 ```cpp
-deadass bool rizzed_up be facts rn
+deadass hype rizzed_up be facts rn
 on_god(rizzed_up fr_be no cap) rn
 
-bool we_vibin(int i) bruh
+hype we_vibin(mf i) bruh
     sussin(i % 2) bruh
        slay
     jk_unless(i % 3)
@@ -21,30 +21,30 @@ bool we_vibin(int i) bruh
 tho
 
 [[woke]]
-int secure_the_bag(int i) bruh
+mf secure_the_bag(mf i) bruh
     its_giving i * 2 rn
 tho
 
 [[cheugy]]
-void get_word() bruh
+basic get_word() bruh
     say_less
 tho
 
 
 simp MyGuy bruh
-    delulu int* money be fake rn
-    deadass out_of_pocket bool depression be facts rn
+    delulu mf* money be fake rn
+    deadass out_of_pocket hype depression be facts rn
 tho rn
 
 
 fam Queen bruh
 flex:
-    bool cookin(npc MyGuy& boi) bruh
+    hype cookin(npc MyGuy& boi) bruh
         its_giving dis->has_rizz(boi) rn
     tho
 
 low_key:
-    bool has_rizz(npc MyGuy& boi) bruh
+    hype has_rizz(npc MyGuy& boi) bruh
         sussin(boi.money fr_be fake) bruh
             take_the_L
         tho
@@ -52,20 +52,20 @@ low_key:
     tho
 
     snack MyGuy rn
-    bool depression be cap rn
+    hype depression be cap rn
 tho rn
 
 
-int goated() bruh
+mf goated() bruh
     fuck_around bruh
-        yall(int i be 0 rn i < 5 rn i++) bruh
-            [[iykyk]] int out be secure_the_bag(i) rn
+        yall(mf i be ded rn i < 5 rn i finna) bruh
+            [[iykyk]] mf out be secure_the_bag(i) rn
             frfr(out fr_be i*2) rn
         tho
 
-        int j be 0 rn
+        mf j be ded rn
         vibe_check(j nah 4) bruh
-            j = we_vibin(j) bet j+1 : j+2 rn
+            j be we_vibin(j) bet j+1 ghosted j+2 rn
             sussin(j < 2) bruh
                 go_off
             jk_unless(j >= 5 n j <= 8)
@@ -73,11 +73,11 @@ int goated() bruh
             jk_unless(j > 8)
                 yeet big_yikes("Get Cancelled!")
             tho
-            spit << "The vibes might be off 💀\n";
+            spit "The vibes might be off 💀" fr yikes
          tho
 
     find_out(...)
-        spit << "You gonna catch these hands\n" rn
+        spit "You gonna catch these hands" fr yikes
     tho
 tho
 ```
@@ -85,3 +85,7 @@ tho
 ## Usage
 
 Simply include [zpp.hpp](zpp.hpp).
+
+## Other Works
+
+Inspired by https://github.com/christina-de-martinez/babel-plugin-glowup-vibes.
