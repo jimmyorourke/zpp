@@ -8,7 +8,7 @@ See the full [example.cpp](example/example.cpp).
 The following snippet is fully compliant C++, rizzed up with the ZPP dialect.
 
 ```cpp
-#include <zpp.hpp> // This code gonna slap 
+#include <zpp.hpp> // This code bouta slap 
 
 deadass hype rizzed_up be facts rn
 on_god(rizzed_up fr_be no cap) rn
